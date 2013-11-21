@@ -1,6 +1,7 @@
 Ответы на вопросы к экзаменам по дисциплине “Экономика отрасли"
-================
-Все ответы: https://github.com/tpk-coders/economy-4th-year/tree/master/answers
+---
+
+Ответы: https://github.com/tpk-coders/economy-4th-year/tree/master/answers
 
 TODO: https://github.com/tpk-coders/economy-4th-year/issues?state=open
 
